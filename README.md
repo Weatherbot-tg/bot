@@ -9,8 +9,11 @@ Weather bot for telegram messenger made as an experiment 🔎
 
 ## Commands
 ```/start``` - run bot
+
 ```/help``` - help
+
 ```/weather``` - get weather
+
 ```/credits``` - bot authors
 
 ## Credits
