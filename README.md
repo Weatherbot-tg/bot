@@ -1,5 +1,5 @@
 # Weatherbot
-Weather bot for telegram messenger made as an experiment 🔎
+💬 Weather bot for telegram messenger made as an experiment 🔎
 
 [![License](https://img.shields.io/github/license/Dimkarpenko/Weatherbot?label=license&style=flat-square)](./LICENSE)
 [![Issues](https://img.shields.io:/github/issues/Dimkarpenko/Weatherbot?style=flat-square)](https://github.com/Dimkarpenko/Weatherbot/issues)
