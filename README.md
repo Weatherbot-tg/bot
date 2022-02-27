@@ -1,3 +1,5 @@
+![photo_2022-02-27_18-34-30](https://user-images.githubusercontent.com/69617058/155884545-7c943004-1cd7-47fd-8475-d143c5c28026.jpg)
+
 # 💬 Weatherbot
 Weather bot for telegram messenger made as an experiment 🔎
 
