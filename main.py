@@ -23,12 +23,6 @@ def get_msg(message):
   sent = bot.send_message(message.chat.id, 'Введите название города')
   bot.register_next_step_handler(sent, send_weather)
 
-@bot.message_handler(commands=['id'])
-def send_msg(message):
-    bot.send_message(message.chat.id, f"Your id is {message.chat.id}")
-    a = message.chat.id
-    bot.send_message(config.ADMIN_ID, a)
-
 def send_weather(message):
     try:
         msg = message.text
