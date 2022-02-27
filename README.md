@@ -8,7 +8,10 @@ Weather bot for telegram messenger made as an experiment 🔎
 [![lang](https://img.shields.io:/github/languages/top/Dimkarpenko/Weatherbot?style=flat-square)](https://github.com/Dimkarpenko/Weatherbot)
 
 ## Commands
-```sh/start``` - run bot
+```/start``` - run bot
+```/help``` - help
+```/weather``` - get weather
+```/credits``` - bot authors
 
 ## Credits
 https://www.python.org/ -  Python (programming language)  
