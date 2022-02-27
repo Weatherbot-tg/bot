@@ -7,6 +7,9 @@ Weather bot for telegram messenger made as an experiment 🔎
 [![size](https://img.shields.io:/github/languages/code-size/Dimkarpenko/Weatherbot?style=flat-square)](https://github.com/Dimkarpenko/Weatherbot)
 [![lang](https://img.shields.io:/github/languages/top/Dimkarpenko/Weatherbot?style=flat-square)](https://github.com/Dimkarpenko/Weatherbot)
 
+## Commands
+```sh/start``` - run bot
+
 ## Credits
 https://www.python.org/ -  Python (programming language)  
 https://github.com/eternnoir/pyTelegramBotAPI - Telegram bot lib 
