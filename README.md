@@ -1,5 +1,5 @@
 
-![zyro-image-removebg-preview (1)](https://user-images.githubusercontent.com/69617058/155884746-ba2e61a5-fcd0-4b0c-ace8-e8a760d0abcc.png)
+![logo-test](https://user-images.githubusercontent.com/69617058/172456633-6d025208-5e0a-4b0d-9842-2a630dc4d6a7.png)
 
 # 💬 Weatherbot
 Weather bot for telegram messenger made as an experiment 🔎
