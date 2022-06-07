@@ -24,6 +24,7 @@ Weather bot for telegram messenger made as an experiment 🔎
 ## Credits
 https://www.python.org/ -  Python (programming language)  
 https://github.com/eternnoir/pyTelegramBotAPI - Telegram bot lib 
+https://github.com/csparpa/pyowm - Weather parsing lib
 
 ## Author
 (C) 2022 Dmitry Karpenko.
