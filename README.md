@@ -19,6 +19,8 @@ Weather bot for telegram messenger made as an experiment 🔎
 
 ```/credits``` - bot authors
 
+```/report``` - report a bug
+
 ## Credits
 https://www.python.org/ -  Python (programming language)  
 https://github.com/eternnoir/pyTelegramBotAPI - Telegram bot lib 
