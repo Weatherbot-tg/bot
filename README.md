@@ -11,15 +11,13 @@ Weather bot for telegram messenger made as an experiment 🔎
 [![lang](https://img.shields.io:/github/languages/top/Dimkarpenko/Weatherbot?style=flat-square)](https://github.com/Dimkarpenko/Weatherbot)
 
 ## Commands
-```/start``` - run bot
-
-```/help``` - help
-
-```/weather``` - get weather
-
-```/credits``` - bot authors
-
-```/report``` - report a bug
+/start - run bot   
+/credits - the author of the bot  
+/weather - weather output in the specified city  
+/weather_coords - weather output by geographical coordinates  
+/weather_zip - weather output by zip code  
+/air_pollution - air quality output  
+/report - report an error  
 
 ## Credits
 https://www.python.org/ -  Python (programming language)  
