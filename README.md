@@ -30,4 +30,4 @@ https://github.com/csparpa/pyowm - Weather parsing lib
 
 ## Author
 (C) 2022 Dmitry Karpenko.
-https://oncode.tech
+https://t.me/owm_bot
