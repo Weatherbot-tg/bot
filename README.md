@@ -11,18 +11,17 @@ Weather bot for telegram messenger made as an experiment 🔎
 [![lang](https://img.shields.io:/github/languages/top/Dimkarpenko/Weatherbot?style=flat-square)](https://github.com/Dimkarpenko/Weatherbot)
 
 ## Commands
-/start - запуск бота
-/help - команды бота
-/donate - поддержать разработчиков
-/weather - вывод погоды в указанном городе
-/weather_coords - вывод погоды по географическим координатам
-/weather_zip - вывод погоды по почтовому индексу
-/air_pollution - вывод качества воздуха
-/subscribe - подписка на погоду
-/get_geo - получить координаты города
-/uv_index - получить уф индекс
-/credits - автор бота
-/report - сообщить об ошибке
+/start - bot launch    
+/help - bot commands    
+/donate - support developers    
+/weather - weather output in the specified city    
+/weather_coords - weather output by geographical coordinates    
+/weather_zip - weather output by zip code /air_pollution - air quality output    
+/subscribe - weather subscription    
+/get_geo - get city coordinates    
+/uv_index - get the uv index    
+/credits - bot author    
+/report - report a bug    
 
 ## Credits
 https://www.python.org/ -  Python (programming language)  
