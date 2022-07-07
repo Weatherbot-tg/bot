@@ -11,13 +11,17 @@ Weather bot for telegram messenger made as an experiment 🔎
 [![lang](https://img.shields.io:/github/languages/top/Dimkarpenko/Weatherbot?style=flat-square)](https://github.com/Dimkarpenko/Weatherbot)
 
 ## Commands
-/start - run bot   
-/credits - the author of the bot  
-/weather - weather output in the specified city  
-/weather_coords - weather output by geographical coordinates  
-/weather_zip - weather output by zip code  
-/air_pollution - air quality output  
-/report - report an error  
+/start - bot launch    
+/help - bot commands    
+/donate - support developers    
+/weather - weather output in the specified city    
+/weather_coords - weather output by geographical coordinates    
+/weather_zip - weather output by zip code /air_pollution - air quality output    
+/subscribe - weather subscription    
+/get_geo - get city coordinates    
+/uv_index - get the uv index    
+/credits - bot author    
+/report - report a bug    
 
 ## Credits
 https://www.python.org/ -  Python (programming language)  
@@ -26,4 +30,4 @@ https://github.com/csparpa/pyowm - Weather parsing lib
 
 ## Author
 (C) 2022 Dmitry Karpenko.
-https://oncode.tech
+https://t.me/owm_bot
