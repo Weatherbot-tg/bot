@@ -1,5 +1,0 @@
-aiogram
-pyowm
-aioschedule
-asyncio
-psycopg2
